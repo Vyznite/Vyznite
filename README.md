@@ -6,5 +6,5 @@ Ik ben ongeveer gestart met code begin 2022, en nog zeer noob.
 
 
 **Speciale datums:**
-- 01/01/2022 - gestart met lua leren
-- 26/03/2022 - gestart met het leren van react.js
+- 01/01/2022 - gestart met LUA leren
+- 26/03/2022 - gestart met het leren van JS/TS
