@@ -7,3 +7,5 @@ Ik ben ongeveer gestart met code begin 2022, en nog zeer noob.
 
 **Speciale datums:**
 - 01/01/2022 - gestart met LUA leren
+
+- 26/08/2022 - gestart met opleiding ICT Software development
