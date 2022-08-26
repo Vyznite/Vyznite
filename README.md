@@ -11,5 +11,5 @@ Mijn naam is Levi, momenteel 17 jaar en woon in belgie. Ik ben begonnen met code
 ### **Contact:**
 Als je interesse hebt of e.v.t vragen kan je altijd contact met me opnemen.
 
-- [DISCORD:] Vyznite#8045
+- [DISCORD:] [Vyznite#8045](discord.com/)
 - [EMAIL:] vyznite@gmail.com
