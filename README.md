@@ -9,4 +9,4 @@ Discord: @Vyznite#8045
 
 **Speciale datums:**
 - 01/01/2022 - gestart met het leren van code schrijven.
-- 26/08/2022 - gestart met opleiding ICT Software development
+- 26/08/2022 - gestart met opleiding ICT Programmeren
