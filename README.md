@@ -4,7 +4,6 @@ Mijn naam is Levi, momenteel 17 jaar en woon in België. Ik ben begonnen met cod
 
 ## **Currently learning:**
 - Java
-- React
 - Lua
 - Javascript
 
