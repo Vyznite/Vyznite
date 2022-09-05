@@ -6,6 +6,7 @@ Mijn naam is Levi, momenteel 17 jaar en woon in België. Ik ben begonnen met cod
 - Java
 - Lua
 - Javascript
+- Python
 
 ### **Contact:**
 Als je interesse hebt of e.v.t vragen kan je altijd contact met me opnemen.
