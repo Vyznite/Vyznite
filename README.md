@@ -1,6 +1,6 @@
 ## Hallo 👋
 
-Mijn naam is Levi en ik ben 17 jaar. Ik kom uit België en ben momenteel een junior developer. Mijn interesse in technologie, vooral het programmeren, heeft me ertoe geleid mij hierin te specialiseren. Met veel enthousiasme codeer ik, waardoor ik mijn kennis en vaardigheden heb verbeterd over HTML, CSS, JavaScript en SQL. Tegenwoordig ben ik bezig met React en streef ik ernaar een full stack developer te worden.
+Mijn naam is Levi en ik ben 17 jaar. Ik kom uit België en ben momenteel een junior developer. Mijn interesse in technologie, vooral het programmeren, heeft me ertoe geleid mij hierin te specialiseren. Met veel enthousiasme codeer ik, waardoor ik mijn kennis en vaardigheden heb verbeterd over HTML, CSS, LUA, JavaScript en SQL. Tegenwoordig ben ik bezig met React en streef ik ernaar een full stack developer te worden.
 
 
 ## **Currently learning:**
