@@ -1,6 +1,6 @@
-## Hallo 👋
+## Hallo
 
-Random guy van belgie
+👋 Hallo, ik ben Levi!
 
 ## **Currently learning:**
 - Lua
